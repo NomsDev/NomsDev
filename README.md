@@ -1,4 +1,3 @@
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AstrqlDev.AstrqlDev&color=6a0094&text=Visitors&style=flat&logo=falcon">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AstrqlDev&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
