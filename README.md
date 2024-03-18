@@ -37,4 +37,4 @@ Currently Learning:
 
 Contact & Other
 
-Discord: AstrqlDev#1402
+Discord: paranoia.1
